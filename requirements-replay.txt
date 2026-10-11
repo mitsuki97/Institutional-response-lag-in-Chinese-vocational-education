@@ -1,0 +1,7 @@
+# Optional replay backends; install only the backend actually used.
+-r requirements.txt
+torch
+transformers
+accelerate
+openai
+tqdm

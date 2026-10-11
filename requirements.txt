@@ -1,0 +1,7 @@
+# Dependencies inferred from selected scripts; exact versions not yet locked.
+numpy
+pandas
+matplotlib
+seaborn
+openpyxl
+tabulate
